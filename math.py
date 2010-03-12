@@ -12,4 +12,5 @@ if x > 45:
 else:
     print "this is crazy bitch"
 
+name = raw_input ("Enter your name: ")
 
