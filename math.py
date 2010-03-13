@@ -14,3 +14,7 @@ else:
 
 name = raw_input ("Enter your name: ")
 
+my_file = open('fiv', 'r')
+lines = my_file.readlines()
+print lines
+
